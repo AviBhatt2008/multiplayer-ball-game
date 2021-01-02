@@ -1,2 +1,2 @@
-# multiplayer-ball-game
-use the arrow keys to move the ball. It is synchronous.
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
